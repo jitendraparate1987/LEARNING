@@ -1,4 +1,4 @@
-package Patterns;
+package designpatterns;
 
 public class CumulativePatterns {
 	

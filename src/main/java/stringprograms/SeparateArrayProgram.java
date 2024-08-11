@@ -1,4 +1,4 @@
-package Mathematical;
+package stringprograms;
 
 import java.util.ArrayList;
 import java.util.List;

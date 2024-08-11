@@ -1,4 +1,4 @@
-package Mathematical;
+package mathematical;
 
 public abstract class AbstractDemo {
 

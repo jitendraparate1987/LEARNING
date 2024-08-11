@@ -1,4 +1,4 @@
-package StringPrograms;
+package stringprograms;
 
 public class Person {
     private String name;
